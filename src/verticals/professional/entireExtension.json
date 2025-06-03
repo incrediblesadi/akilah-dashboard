@@ -1,0 +1,78 @@
+{
+  "00_template": {
+    "value": "{\"personal_identity\":{\"full_name\":\"\",\"values\":\"\",\"working_style\":\"\",\"personal_goals\":\"\",\"identity_tags\":\"\"},\"professional_identity\":{\"long_term_goals\":\"\",\"strengths\":\"\",\"weaknesses\":\"\",\"role_preferences\":\"\",\"personality_framework\":\"\"},\"PROFESSIONAL_TIMELINE\":{\"ORGANIZATION\":{\"organization_name\":\"\",\"start_date\":\"\",\"end_date\":\"\",\"ROLES\":{\"ROLE_1_General_Manager\":{\"role_title\":\"\",\"location\":\"\",\"timeframe\":\"\",\"role_snapshot\":\"\",\"leadership_style_evolution\":\"\",\"personal_transformation\":\"\",\"reflections_and_meaning\":\"\",\"narrative_summary\":\"\",\"PHASES\":{\"PHASE_A_Store_Turnaround\":{\"phase_title\":\"\",\"phase_duration\":\"\",\"core_responsibilities\":\"\",\"initiatives_and_execution\":\"\",\"results_and_outcomes\":\"\",\"systems_created\":\"\",\"technologies_used\":\"\",\"social_techniques_used\":\"\",\"leadership_examples\":\"\",\"communication_dynamics\":\"\",\"team_dynamics\":\"\",\"people_impacted\":\"\",\"key_dependencies\":\"\",\"before_state_summary\":\"\",\"after_state_summary\":\"\",\"impact_length\":\"\",\"strengths_exhibited\":\"\",\"weaknesses_confronted\":\"\",\"challenges_faced\":\"\",\"unique_dynamics\":\"\",\"learnings\":\"\",\"realizations\":\"\",\"behaviors_observed\":\"\",\"mindsets_encountered\":\"\",\"what_was_known_vs_learned\":\"\",\"what_was_easy_vs_unfamiliar\":\"\",\"things_you_were_used_to_vs_adapted_to\":\"\",\"reflection\":\"\",\"linked_documents_or_system_examples\":\"\"}}},\"ROLE_2_District_Manager\":{\"role_title\":\"\",\"location\":\"\",\"timeframe\":\"\",\"role_snapshot\":\"\",\"narrative_summary\":\"\"},\"ROLE_3_Director_of_Operations\":{\"role_title\":\"\",\"location\":\"\",\"timeframe\":\"\",\"role_snapshot\":\"\",\"narrative_summary\":\"\"}}}},\"COMPILATIONS_AND_DYNAMIC_USES\":{\"resume_snippet_generator\":\"\",\"leadership_case_studies\":\"\",\"personal_growth_map\":\"\",\"systems_playbook\":\"\"},\"CASE_STUDIES\":{\"case_study_id\":{\"title\":\"\",\"challenge_solved\":\"\",\"systems_created\":\"\",\"behavioral_strengths_used\":\"\",\"leadership_expression\":\"\",\"cultural_dynamics_navigated\":\"\",\"emotional_journey\":\"\",\"long_term_relevance\":\"\",\"linked_phase_ids\":\"\"}},\"ROLE_ALIGNMENT_INSIGHTS\":{\"natural_fit_roles\":{\"job_title\":\"\",\"traits_matched\":[],\"supporting_examples\":[],\"relevance_notes\":\"\"},\"stretch_fit_roles\":\"\",\"unconventional_opportunities\":\"\",\"role_fragments_matched\":\"\"},\"MARKET_NAVIGATION_INSIGHTS\":{\"industries_where_i_thrive\":\"\",\"cultural_environments_matched\":\"\",\"team_structures_supported\":\"\",\"company_sizes_aligned\":\"\",\"leadership_scenarios_i_succeed_in\":\"\"}}"
+  },
+  "01-personal_identity": {
+    "value": "{\n  \"full_name\": \"\",\n  \"phone_number\": \"\",\n  \"email\": \"\",\n  \"address\": \"\",\n  \"social_links\": {\n    \"linkedin\": \"\",\n    \"twitter\": \"\",\n    \"github\": \"\",\n    \"personal_website\": \"\"\n  },\n  \"identity_tags\": []\n}"
+  },
+  "02-professional_identity": {
+    "value": "{\n  \"current_title\": \"\",\n  \"long_term_goals\": \"\",\n  \"strengths\": [],\n  \"weaknesses\": [],\n  \"role_preferences\": [],\n  \"personality_framework\": \"\",\n  \"linkedin\": \"\",\n  \"portfolio_links\": [],\n  \"reference_sites\": []\n}"
+  },
+  "03-professional_timeline": {
+    "00_template": {
+      "01_general_manager": {
+        "value": "{\"role_title\":\"General Manager\",\"location\":\"\",\"timeframe\":\"\",\"role_snapshot\":\"\",\"leadership_style_evolution\":\"\",\"personal_transformation\":\"\",\"reflections_and_meaning\":\"\",\"narrative_summary\":\"\",\"phases\":{\"phase_a\":{\"phase_title\":\"\",\"phase_duration\":\"\",\"core_responsibilities\":\"\",\"initiatives_and_execution\":\"\",\"results_and_outcomes\":\"\",\"systems_created\":\"\",\"technologies_used\":\"\",\"social_techniques_used\":\"\",\"leadership_examples\":\"\",\"communication_dynamics\":\"\",\"team_dynamics\":\"\",\"people_impacted\":\"\",\"key_dependencies\":\"\",\"before_state_summary\":\"\",\"after_state_summary\":\"\",\"impact_length\":\"\",\"strengths_exhibited\":\"\",\"weaknesses_confronted\":\"\",\"challenges_faced\":\"\",\"unique_dynamics\":\"\",\"learnings\":\"\",\"realizations\":\"\",\"behaviors_observed\":\"\",\"mindsets_encountered\":\"\",\"what_was_known_vs_learned\":\"\",\"what_was_easy_vs_unfamiliar\":\"\",\"things_you_were_used_to_vs_adapted_to\":\"\",\"reflection\":\"\",\"linked_documents_or_system_examples\":\"\"}}}"
+      },
+      "02_district_manager": {
+        "value": "{\"role_title\":\"District Manager\",\"location\":\"\",\"timeframe\":\"\",\"role_snapshot\":\"\",\"leadership_style_evolution\":\"\",\"personal_transformation\":\"\",\"reflections_and_meaning\":\"\",\"narrative_summary\":\"\",\"phases\":{\"phase_a\":{\"phase_title\":\"\",\"phase_duration\":\"\",\"core_responsibilities\":\"\",\"initiatives_and_execution\":\"\",\"results_and_outcomes\":\"\",\"systems_created\":\"\",\"technologies_used\":\"\",\"social_techniques_used\":\"\",\"leadership_examples\":\"\",\"communication_dynamics\":\"\",\"team_dynamics\":\"\",\"people_impacted\":\"\",\"key_dependencies\":\"\",\"before_state_summary\":\"\",\"after_state_summary\":\"\",\"impact_length\":\"\",\"strengths_exhibited\":\"\",\"weaknesses_confronted\":\"\",\"challenges_faced\":\"\",\"unique_dynamics\":\"\",\"learnings\":\"\",\"realizations\":\"\",\"behaviors_observed\":\"\",\"mindsets_encountered\":\"\",\"what_was_known_vs_learned\":\"\",\"what_was_easy_vs_unfamiliar\":\"\",\"things_you_were_used_to_vs_adapted_to\":\"\",\"reflection\":\"\",\"linked_documents_or_system_examples\":\"\"}}}"
+      },
+      "03_director_of_operations": {
+        "value": "{\"role_title\":\"Director of Operations\",\"location\":\"\",\"timeframe\":\"\",\"role_snapshot\":\"\",\"leadership_style_evolution\":\"\",\"personal_transformation\":\"\",\"reflections_and_meaning\":\"\",\"narrative_summary\":\"\",\"phases\":{\"phase_a\":{\"phase_title\":\"\",\"phase_duration\":\"\",\"core_responsibilities\":\"\",\"initiatives_and_execution\":\"\",\"results_and_outcomes\":\"\",\"systems_created\":\"\",\"technologies_used\":\"\",\"social_techniques_used\":\"\",\"leadership_examples\":\"\",\"communication_dynamics\":\"\",\"team_dynamics\":\"\",\"people_impacted\":\"\",\"key_dependencies\":\"\",\"before_state_summary\":\"\",\"after_state_summary\":\"\",\"impact_length\":\"\",\"strengths_exhibited\":\"\",\"weaknesses_confronted\":\"\",\"challenges_faced\":\"\",\"unique_dynamics\":\"\",\"learnings\":\"\",\"realizations\":\"\",\"behaviors_observed\":\"\",\"mindsets_encountered\":\"\",\"what_was_known_vs_learned\":\"\",\"what_was_easy_vs_unfamiliar\":\"\",\"things_you_were_used_to_vs_adapted_to\":\"\",\"reflection\":\"\",\"linked_documents_or_system_examples\":\"\"}}}"
+      },
+      "organization_metadata": {
+        "value": "{\"organization_name\":\"\",\"start_date\":\"\",\"end_date\":\"\",\"location\":\"\",\"address\":\"\",\"phone_number\":\"\",\"direct_report\":\"\",\"employment_duration\":\"\",\"company_size\":\"\",\"company_industry\":\"\",\"notes\":\"\"}"
+      }
+    },
+    "01_the_halal_guys": {
+      "value": "{\"organization_metadata\": \"{\\\"organization_name\\\":\\\"The Halal Guys\\\", \\\"start_date\\\":\\\"\\\", \\\"end_date\\\":\\\"\\\", \\\"address\\\":\\\"\\\", \\\"phone_number\\\":\\\"\\\", \\\"direct_report\\\":\\\"\\\", \\\"employment_duration\\\":\\\"\\\", \\\"company_size\\\":\\\"\\\", \\\"company_industry\\\":\\\"\\\", \\\"notes\\\":\\\"\\\"}\"}"
+    },
+    "02_lux_van_rental": {
+      "value": "{\"organization_metadata\": \"{\\\"organization_name\\\":\\\"Lux Van Rental\\\", \\\"start_date\\\":\\\"\\\", \\\"end_date\\\":\\\"\\\", \\\"address\\\":\\\"\\\", \\\"phone_number\\\":\\\"\\\", \\\"direct_report\\\":\\\"\\\", \\\"employment_duration\\\":\\\"\\\", \\\"company_size\\\":\\\"\\\", \\\"company_industry\\\":\\\"\\\", \\\"notes\\\":\\\"\\\"}\"}"
+    },
+    "03_ridead_corp": {
+      "value": "{\"organization_metadata\": \"{\\\"organization_name\\\":\\\"RideAd Corp\\\", \\\"start_date\\\":\\\"\\\", \\\"end_date\\\":\\\"\\\", \\\"address\\\":\\\"\\\", \\\"phone_number\\\":\\\"\\\", \\\"direct_report\\\":\\\"\\\", \\\"employment_duration\\\":\\\"\\\", \\\"company_size\\\":\\\"\\\", \\\"company_industry\\\":\\\"\\\", \\\"notes\\\":\\\"\\\"}\"}"
+    },
+    "04_t_mobile_business": {
+      "value": "{\"organization_metadata\": \"{\\\"organization_name\\\":\\\"T-Mobile Business\\\", \\\"start_date\\\":\\\"\\\", \\\"end_date\\\":\\\"\\\", \\\"address\\\":\\\"\\\", \\\"phone_number\\\":\\\"\\\", \\\"direct_report\\\":\\\"\\\", \\\"employment_duration\\\":\\\"\\\", \\\"company_size\\\":\\\"\\\", \\\"company_industry\\\":\\\"\\\", \\\"notes\\\":\\\"\\\"}\"}"
+    },
+    "05_cydcor": {
+      "value": "{\"organization_metadata\": \"{\\\"organization_name\\\":\\\"Cydcor\\\", \\\"start_date\\\":\\\"\\\", \\\"end_date\\\":\\\"\\\", \\\"address\\\":\\\"\\\", \\\"phone_number\\\":\\\"\\\", \\\"direct_report\\\":\\\"\\\", \\\"employment_duration\\\":\\\"\\\", \\\"company_size\\\":\\\"\\\", \\\"company_industry\\\":\\\"\\\", \\\"notes\\\":\\\"\\\"}\"}"
+    },
+    "06_veritas": {
+      "value": "{\"organization_metadata\": \"{\\\"organization_name\\\":\\\"Veritas\\\", \\\"start_date\\\":\\\"\\\", \\\"end_date\\\":\\\"\\\", \\\"address\\\":\\\"\\\", \\\"phone_number\\\":\\\"\\\", \\\"direct_report\\\":\\\"\\\", \\\"employment_duration\\\":\\\"\\\", \\\"company_size\\\":\\\"\\\", \\\"company_industry\\\":\\\"\\\", \\\"notes\\\":\\\"\\\"}\"}"
+    }
+  },
+  "04-COMPILATIONS_AND_DYNAMIC_USES": {
+    "value": "{\n  \"resume_snippet_generator\": \"pulls from phase data dynamically\",\n  \"leadership_case_studies\": \"derived from structured professional timeline\",\n  \"personal_growth_map\": \"tracks learning and reflection over time\",\n  \"systems_playbook\": \"reference archive of all systems created\"\n}"
+  },
+  "05-case_studies": {
+    "value": "{\n  \"case_study_template\": {\n    \"title\": \"\",\n    \"challenge_solved\": \"\",\n    \"systems_created\": \"\",\n    \"behavioral_strengths_used\": \"\",\n    \"leadership_expression\": \"\",\n    \"cultural_dynamics_navigated\": \"\",\n    \"emotional_journey\": \"\",\n    \"long_term_relevance\": \"\",\n    \"linked_phase_ids\": []\n  }\n}"
+  },
+  "06-role_alignment_insights": {
+    "value": "{\n  \"natural_fit_roles\": [\n    {\n      \"job_title\": \"Director of Ops\",\n      \"traits_matched\": [\"systems builder\", \"cross-unit leader\", \"mentor\"],\n      \"supporting_examples\": [\"phase_id_1\", \"phase_id_3\", \"case_study_id\"],\n      \"relevance_notes\": \"\"\n    }\n  ],\n  \"stretch_fit_roles\": [],\n  \"unconventional_opportunities\": [],\n  \"role_fragments_matched\": []\n}"
+  },
+  "07-market_navigation_insights": {
+    "value": "{\n  \"industries_where_i_thrive\": [],\n  \"cultural_environments_matched\": [],\n  \"team_structures_supported\": [],\n  \"company_sizes_aligned\": [],\n  \"leadership_scenarios_i_succeed_in\": []\n}"
+  },
+  "08-research_and_document_links": {
+    "value": "{\n  \"linked_nodes\": [],\n  \"linked_documents\": [],\n  \"source_notes\": \"\",\n  \"metadata\": {\n    \"added_by\": \"MyAkilah\",\n    \"usage\": \"Store research and document references related to professional experiences or case studies\"\n  }\n}"
+  },
+  "09-research_and_documents": {
+    "value": "{\"title\": \"Research & Document Compilation\", \"purpose\": \"Organize research threads, foundational documents, system blueprints, and knowledge structures for synthesis or reuse.\", \"types\": [\"system_diagrams\", \"research_snippets\", \"framework_definitions\", \"architectural_notes\"], \"example\": {\"system_diagrams\": \"Memory sync map - March 2025\", \"framework_definitions\": \"Akilah Thought Layer v2.1\"}, \"metadata\": {\"status\": \"active\", \"created_by\": \"My Akilah\", \"last_updated\": \"2025-04-02T23:59:00Z\"}}"
+  },
+  "11-products_I_have_created": {
+    "value": "{ \"description\": \"Placeholder for listing all products, tools, systems, or outputs created by the user, either independently or collaboratively.\" }"
+  },
+  "12-documents_narrated_with_AI": {
+    "value": "{ \"description\": \"Placeholder for documents that were structured, written, or co-authored through AI assistance. AI served as a narrator or transcription layer, guided by the user's logic and real-time direction.\" }"
+  },
+  "13-filedump": {
+    "halal_guys_roles": {
+      "value": "{\n  \"director_of_operations\": {\n    \"role_title\": \"Director of Operations\",\n    \"location\": \"Chamblee, Duluth, Buford, Midtown, Dunwoody (GA); Newark, New Brunswick, Yonkers, Queens Center, Ironbound (NY/NJ)\",\n    \"timeframe\": \"December 2022 – February 27th, 2025\",\n    \"role_snapshot\": \"Oversaw operations across multiple Georgia locations—Chamblee, Duluth, Buford, Midtown, and Dunwoody—while simultaneously leading remote initiatives for Northeast markets including Newark, New Brunswick, Yonkers, Queens Center, and Ironbound. Launched Dunwoody in April 2023 and elevated Midtown from $40k/week to $76k/week by 2024. Directed weekly training and leadership calls across markets, developed operational training material, and carried responsibility for quarterly and annual P&L, closing 2025 just shy of $10 million in total revenue.\"\n  }\n}"
+    },
+    "notesdump": {
+      "value": "{\"update_note\": \"Corrected node structure — clarified that 'composters' are not a subcategory here.\"}"
+    },
+    "value": "{\"description\": \"Temporary storage node for files, notes, raw text, and memory fragments. Used for quick capture and later processing.\"}"
+  }
+}
